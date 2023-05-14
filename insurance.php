@@ -31,7 +31,7 @@ session_start();
   <link href="images/webclip.png" rel="apple-touch-icon">
 </head>
 <body>
-  <div class="w-container"><img src="images/autogo_logo.png" loading="lazy" width="219" sizes="219px" srcset="images/autogo_logo-p-500.png 500w, images/autogo_logo.png 728w" alt="" class="image-3"></div>
+  <div class="w-container"><img src="img/autogo_logo.png" loading="lazy" width="219" sizes="219px" srcset="img/autogo_logo-p-500.png 500w, img/autogo_logo.png 728w" alt="" class="image-3"></div>
   <div class="text-block-2"><strong>ADD-ONS OPTIONS</strong></div>
   <div class="columns f2wf-columns">
     <div class="column-3">

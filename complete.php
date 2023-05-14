@@ -88,7 +88,7 @@ session_start();
       <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar-logo-left-container-2 shadow-three w-nav">
       <div class="container-3">
           <div class="navbar-wrapper-3">
-          <a href="homepage.php" class="navbar-brand-3 w-nav-brand"><img src="autogo_logo.png" loading="lazy" alt="" class="image-5" style="width: 500px;"></a>
+          <a href="homepage.php" class="navbar-brand-3 w-nav-brand"><img src="img/autogo_logo.png" loading="lazy" alt="" class="image-5" style="width: 500px;"></a>
           <nav role="navigation" class="nav-menu-wrapper-3 w-nav-menu">
               <ul role="list" class="nav-menu-two-2 w-list-unstyled">
               <li>

@@ -156,7 +156,7 @@
       </div>
     </div>
   </div>
-  <div class="w-container"><img src="images/autogo_logo.png" loading="lazy" width="510" sizes="(max-width: 767px) 100vw, 510px" srcset="images/autogo_logo-p-500.png 500w, images/autogo_logo.png 728w" alt="" class="image-4"></div>
+  <div class="w-container"><img src="img/autogo_logo.png" loading="lazy" width="510" sizes="(max-width: 767px) 100vw, 510px" srcset="img/autogo_logo-p-500.png 500w, img/autogo_logo.png 728w" alt="" class="image-4"></div>
   <div class="small-container">
     <div class="content">
       <div class="text-7">EST. TOTAL</div>
