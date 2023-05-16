@@ -56,8 +56,11 @@ Step-by-step instructions on how to install the project.
 
 - Install and run XAMPP.
   - Press the "start" button on the Apache and MySQL servers.
-
-ADD MORE HERE
+- Initialize the database
+- Install and Run VSCode (or any other IDE)
+- Create a folder called "AutoGo" with all of the files from our repository and place it in the xampp/htdocs folder
+  - To access the homepage, type "localhost/AutoGo/homepage.php" into the address bar of your browser
+- From here, you should be able to fully navigate the website
 
 ### Usage
 
@@ -86,7 +89,7 @@ The following improvements below will make AutoGo more accurate to existing car 
 
 ### Contributing
 
-Here you should provide instructions on how other developers can contribute to the project. This should include guidelines for submitting pull requests, coding conventions, and any other relevant information.
+To contribute to this project, simply clone the repository and make changes to the code. Make sure to add a commit summary and description for every change made.
 
 ### License
 
@@ -94,8 +97,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Contact
 
-Here you can provide information on how to contact you or the project team. This can include email addresses, social media handles, or a link to a website.
+Reshaj Maskey: https://github.com/rmaskey1
+Quan Mai: https://github.com/dmaighty
+Ayush Shresth: https://github.com/ayushshresth021
 
 ### Acknowledgements
-
-Here you can give credit to any individuals or organizations that have contributed to the project or provided support.
